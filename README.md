@@ -1,1 +1,3 @@
-# Python-back-end-001
+# Python-back-end
+fundamentos de python
+framework django
