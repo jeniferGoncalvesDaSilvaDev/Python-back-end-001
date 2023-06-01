@@ -9,7 +9,12 @@ for p in paises:
         break
 print('alfabeto verificado')
 #metodos de listas
+#se usar * co um numero, retorna o mesmo numero inserido na lista-retorna os itens da lista varias vezes
 lista1=[1,2,3,4,5]
+lista3=[5,7,99,102,56]
+a = lista1[0] + lista3[0]
+print(a)
+
 lista2=['morango','maça','banana','pessego','goiaba']
 #juntar as listas
 #o metodo extend, junta 2 listas
